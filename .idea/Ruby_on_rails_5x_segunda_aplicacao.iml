@@ -50,6 +50,8 @@
     <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.2.2, asdf: 3.1.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, asdf: 3.1.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="date (v3.3.3, asdf: 3.1.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="debase (v3.0.0.beta.6, asdf: 3.1.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="debase-ruby_core_source (v0.10.18, asdf: 3.1.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="debug (v1.8.0, asdf: 3.1.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="devise (v4.9.2, asdf: 3.1.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.5.0, asdf: 3.1.4) [gem]" level="application" />
@@ -102,6 +104,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rspec-support (v3.12.1, asdf: 3.1.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubocop (v1.54.0, asdf: 3.1.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubocop-ast (v1.29.0, asdf: 3.1.4) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-debug-ide (v0.7.3, asdf: 3.1.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ruby-progressbar (v1.13.0, asdf: 3.1.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubyzip (v2.3.2, asdf: 3.1.4) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v4.10.0, asdf: 3.1.4) [gem]" level="application" />
