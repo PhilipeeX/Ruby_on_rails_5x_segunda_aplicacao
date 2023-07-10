@@ -86,6 +86,9 @@ GEM
     concurrent-ruby (1.2.2)
     crass (1.0.6)
     date (3.3.3)
+    debase (3.0.0.beta.6)
+      debase-ruby_core_source (~> 0.10.18)
+    debase-ruby_core_source (0.10.18)
     debug (1.8.0)
       irb (>= 1.5.0)
       reline (>= 0.3.1)
@@ -219,6 +222,8 @@ GEM
       unicode-display_width (>= 2.4.0, < 3.0)
     rubocop-ast (1.29.0)
       parser (>= 3.2.1.0)
+    ruby-debug-ide (0.7.3)
+      rake (>= 0.8.1)
     ruby-progressbar (1.13.0)
     rubyzip (2.3.2)
     selenium-webdriver (4.10.0)
@@ -269,6 +274,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap
   capybara
+  debase
   debug
   devise (~> 4.9)
   importmap-rails
@@ -278,6 +284,7 @@ DEPENDENCIES
   rails-i18n (~> 7.0.0)
   rspec-rails (~> 6.0.0)
   rubocop
+  ruby-debug-ide
   selenium-webdriver
   sprockets-rails
   sqlite3 (~> 1.4)
