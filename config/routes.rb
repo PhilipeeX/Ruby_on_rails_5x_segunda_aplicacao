@@ -11,6 +11,8 @@ Rails.application.routes.draw do
 
   devise_for :admins
   devise_for :users
+  get '/admins/sign_out', to: 'admins_backoffice#destroy'
+  get '/users/sign_out', to: 'users_backoffice#destroy'
 
   get 'bem-vindo', to: 'site/welcome#index'
 
